@@ -1,7 +1,5 @@
 # my-weather-app
 
-# Project Title
-
 MyWeatherApp is an app to show the current weather in your location based on the current time. It can also show forecast or how the weather will be 3 days ahead.
 
 ## Table of Contents
@@ -10,7 +8,6 @@ MyWeatherApp is an app to show the current weather in your location based on the
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Running the App](#running-the-app)
-  - [Android Emulator/Device](#android-emulatordevice)
 - [Built With](#built-with)
 
 ## Getting Started
@@ -36,9 +33,9 @@ These instructions will help you set up and run the project on your local machin
 
 ```npm install```
 
-4. Running the App
+### Running the App
 
-Follow the steps below to run the app on your machine.
+Follow the steps below to run the app on your machine:
 
 ```npm run android```
 
