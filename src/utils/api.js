@@ -1,10 +1,6 @@
 import axios from 'axios';
-
-import dotenv from 'dotenv';
-
-dotenv.config();
-const API_KEY = process.dotenv.API_KEY;
-// const API_KEY = '';
+// const API_KEY = process.env.API_KEY;
+const API_KEY = '68ef061978e3bc02c128b5bd7686e980';
 
 // API FETCH DATA
 
